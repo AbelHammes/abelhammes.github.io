@@ -72,7 +72,7 @@ main{
     float: right;
 }
 .busca input{
-    background-image: url(../img/lupa.png);
+    background-image: url(lupa.png);
     background-repeat: no-repeat;
     height: 36px;
     padding: 7px;
