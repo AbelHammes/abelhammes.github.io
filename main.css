@@ -16,7 +16,7 @@ ul{
 }
 main{
     margin: 0 auto;
-    width: 980px;
+    width: 1000px;
     float: left;
     position: relative;
 }
@@ -24,11 +24,13 @@ main{
     font-size: 25px;
     color: white;
     float: left;
-    width: 40%;
+    width: 30%;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 .logo{
     padding: 16px;
-    width: 30%;
+    width: 50%;
     float: left;
 
 }
