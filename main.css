@@ -5,6 +5,7 @@ body{
 
 
 }
+
 ul{
     padding: 0px!important;
 }
@@ -19,7 +20,11 @@ main{
     float: left;
     position: relative;
 }
-
+.header-1{
+    font-size: 25px;
+    color: white;
+    float: center;
+}
 .logo{
     padding: 16px;
     width: 70%;
