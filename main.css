@@ -56,7 +56,7 @@ main{
 }
 
 .menu ul li a{
-    color:rgb(15, 122, 122);
+    color:rgb(5, 41, 41);
     text-decoration: none;
     font-size: 18px;
     text-transform: uppercase;
@@ -79,7 +79,7 @@ main{
     width: 190px;
     margin-top: 10px;
     background-position: 96%;
-    border: 1px solid #0a7dca;
+    border: 1px solid #021827;
 }
 
 .col-100{
