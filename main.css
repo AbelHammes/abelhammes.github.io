@@ -23,7 +23,7 @@ main{
 .header-1{
     font-size: 25px;
     color: white;
-    float: center;
+    float: left;
     width: 40%;
 }
 .logo{
