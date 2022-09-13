@@ -24,10 +24,11 @@ main{
     font-size: 25px;
     color: white;
     float: center;
+    width: 40%;
 }
 .logo{
     padding: 16px;
-    width: 70%;
+    width: 30%;
     float: left;
 
 }
