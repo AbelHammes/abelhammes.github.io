@@ -24,13 +24,13 @@ main{
     font-size: 25px;
     color: rgb(20, 18, 18);
     float: left;
-    width: 70%;
+    width: 40%;
     text-decoration: none;
     text-transform: uppercase;
 }
 .logo{
     padding: 16px;
-    width: 70%;
+    width: 30%;
     float: left;
 
 }
