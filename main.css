@@ -86,6 +86,7 @@ main{
     float: left;
 }
 .busca{
+    text-align: center;
     width: 30%;
     float: right;
 }
