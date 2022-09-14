@@ -11,7 +11,7 @@ ul{
 }
 .menu-principal{
     width: 100%;
-    background-color: #14486b;
+    background-color: #041f31;
     height: 100px;
 }
 main{
@@ -22,7 +22,7 @@ main{
 }
 .header-1{
     font-size: 25px;
-    color: rgba(245, 237, 237, 0.021);
+    color: rgba(45, 47, 53, 0.973);
     float: left;
     width: 100%;
     text-decoration: none;
@@ -30,15 +30,19 @@ main{
 }
 .logo{
     padding: 16px;
-    width: 700%;
-    float: left;
+    width: 100%;
+    float: center;
 
 }
-
+.nome {
+    font-size: medium;
+    color: black;
+}
 .redes-sociais ul li{
     margin-left: 15px;
     display:inline-block;
     float: left;
+
 
 }
 
