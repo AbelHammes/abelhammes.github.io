@@ -16,13 +16,13 @@ ul{
 }
 main{
     margin: 0 auto;
-    width: 1000px;
+    width: 100%;
     float: left;
     position: relative;
 }
 .header-1{
     font-size: 25px;
-    color: rgb(20, 18, 18);
+    color: rgba(245, 237, 237, 0.021);
     float: left;
     width: 40%;
     text-decoration: none;
@@ -36,10 +36,14 @@ main{
 }
 
 .redes-sociais ul li{
-    margin-left: 10px;
+    margin-left: 15px;
     display:inline-block;
     float: left;
-    list-style: none;
+
+}
+.menu-urls{
+    height: 80px;
+    border-bottom: 3px solid #efefef;
 
 }
 
@@ -63,6 +67,12 @@ main{
     margin-left: 15px;
 }
 
+.menu ul li a:hover{
+    color: #0bac0b;
+    border-bottom: 1px solid #14486b;
+    height: 50px;
+
+}
 .menu ul li a{
     color:rgb(5, 41, 41);
     text-decoration: none;
