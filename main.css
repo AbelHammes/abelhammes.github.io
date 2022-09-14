@@ -55,7 +55,7 @@ main{
 
 }
 .menu-urls{
-    height: 22px;
+    height: 25px;
     border-bottom: 3px solid #201f1f;
 
 }
@@ -92,7 +92,7 @@ main{
     background-image: url(lupa.png);
     background-repeat: no-repeat;
     height: 15px;
-    padding: 10px;
+    padding: 8px;
     width: 190px;
     margin-top: 10px;
     background-position: 100%;
