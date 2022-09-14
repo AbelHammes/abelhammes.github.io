@@ -38,11 +38,11 @@ main{
 .redes-sociais ul li{
     margin-top: 15px;
     display:inline-block;
-    float: left;
+    float: center;
 }
 .redes-sociais{
     width: 30%;
-    float: left;
+    float: center;
 
 }
 
@@ -92,7 +92,7 @@ main{
     background-image: url(lupa.png);
     background-repeat: no-repeat;
     height: 15px;
-    padding: 8px;
+    padding: 12px;
     width: 190px;
     margin-top: 10px;
     background-position: 100%;
