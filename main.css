@@ -52,6 +52,7 @@ main{
 .header-2{
     background-color:rgb(100, 92, 170);
     width: 100%;
+    height: 100%;
     margin: 0 auto;
     padding: 20px;
 
@@ -93,8 +94,8 @@ main{
 .busca input{
     background-image: url(lupa.png);
     background-repeat: no-repeat;
-    height: 30px;
-    padding: 7px;
+    height: 40px;
+    padding: 12px;
     width: 190px;
     margin-top: 10px;
     background-position: 96%;
