@@ -34,14 +34,11 @@ main{
     float: left;
 
 }
-.nome {
-    font-size: medium;
-    color: black;
-}
+
 .redes-sociais ul li{
     margin-top: 15px;
     display:inline-block;
-    float: left;
+    float: right;
 }
 .redes-sociais{
     width: 30%;
@@ -49,16 +46,16 @@ main{
 }
 
 .header-2{
-    background-color:rgb(197, 199, 198);
+    background-color:rgb(105, 110, 108);
     width: 100%;
-    height: 100%;
+    height: 80%;
     margin: 0 auto;
-    padding: 20px;
+    padding: 40px;
 
 }
 .menu-urls{
     height: 25px;
-    border-bottom: 3px solid #efefef;
+    border-bottom: 3px solid #201f1f;
 
 }
 
@@ -97,7 +94,7 @@ main{
     padding: 12px;
     width: 190px;
     margin-top: 10px;
-    background-position: 96%;
+    background-position: 80%%;
     border: 1px solid #021827;
 }
 
