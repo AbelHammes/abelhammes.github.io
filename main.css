@@ -75,7 +75,7 @@ main{
 
 }
 .menu ul li a{
-    color:rgb(5, 41, 41);
+    color:rgb(41, 177, 177);
     text-decoration: none;
     font-size: 18px;
     text-transform: uppercase;
@@ -86,14 +86,13 @@ main{
     float: left;
 }
 .busca{
-    text-align: center;
     width: 30%;
     float: right;
 }
 .busca input{
     background-image: url(lupa.png);
     background-repeat: no-repeat;
-    height: 36px;
+    height: 30px;
     padding: 7px;
     width: 190px;
     margin-top: 10px;
