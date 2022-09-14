@@ -38,11 +38,12 @@ main{
 .redes-sociais ul li{
     margin-top: 15px;
     display:inline-block;
-    float: center;
+    float: left;
 }
 .redes-sociais{
     width: 30%;
-    float: center;
+    float: left;
+
 }
 
 .header-2{
