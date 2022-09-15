@@ -12,7 +12,7 @@ ul{
 .menu-principal{
     width: 100%;
     background-color: #010f1100;
-    height: 50px;
+    height: 20px;
 }
 main{
     margin: 0 auto;
@@ -29,8 +29,8 @@ main{
     text-transform: uppercase;
 }
 .titulo{
-    padding: 15px;
-    width: 50%;
+    padding: 25px;
+    width: 80%;
     float: right;
     margin-top: 0%;
     
@@ -76,7 +76,7 @@ main{
 
 }
 .menu ul li a{
-    color:rgb(177, 61, 41);
+    color:rgba(139, 135, 134, 0.007);
     text-decoration: none;
     font-size: 18px;
     text-transform: uppercase;
