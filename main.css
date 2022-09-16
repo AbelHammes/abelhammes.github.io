@@ -9,12 +9,12 @@ ul{
 }
 .menu-principal{
     width: 980px;
-    background-color: #010f1100;
+    background-color: #010f11e7;
     height: 20px;
 }
 main{
     margin: 0 auto;
-    width: 100%;
+    width: 980px;
     float: left;
     position: relative;
 }
