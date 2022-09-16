@@ -1,5 +1,5 @@
 body{
-    width: 100%;
+    width: 980px;
     height: 100%;
     margin: 0 auto;
 }
@@ -11,6 +11,7 @@ ul{
     width: 980px;
     background-color: #010f11e7;
     height: 20px;
+    position: relative;
 }
 main{
     margin: 0 auto;
