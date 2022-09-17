@@ -1,5 +1,5 @@
 body{
-    width: 980px;
+    width: 100%;
     height: 100%;
     margin: 0 auto;
 }
@@ -8,14 +8,14 @@ ul{
     padding: 0px!important;
 }
 .menu-principal{
-    width: 980px;
+    width: 100%;
     background-color: #010f11e7;
     height: 20px;
     position: relative;
 }
 main{
     margin: 0 auto;
-    width: 980px;
+    width: 100%;
     float: left;
     position: relative;
 }
@@ -24,7 +24,7 @@ main{
     font-size: 25px;
     color: rgba(45, 47, 53, 0.973);
     float: left;
-    width: 980px;
+    width: 100%;
     text-decoration: none;
     text-transform: uppercase;
 }
@@ -49,12 +49,12 @@ main{
   
 }
 .menu {
-    width: 700px;
+    width: 70%;
     float: left;
 }
 .busca{
     text-align: center;
-    width: 280px;
+    width: 30%;
     float: left;
 }
 .busca input{
@@ -92,7 +92,7 @@ main{
 
 .header-2{
     background-color:rgb(188, 190, 190);
-    width: 980px;
+    width: 100%;
     height: 100%;
     margin: 0 auto;
     padding: 25px;
