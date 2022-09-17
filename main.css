@@ -19,6 +19,7 @@ main{
     float: left;
     position: relative;
 }
+
 .header-1{
     font-size: 25px;
     color: rgba(45, 47, 53, 0.973);
@@ -26,40 +27,6 @@ main{
     width: 980px;
     text-decoration: none;
     text-transform: uppercase;
-}
-.titulo{
-    padding: 25px;
-    width: 80%;
-    float: right;
-    margin-top: 0%;
-    
-    font-size: 25px;
-    text-transform: uppercase;
-}
-
-.redes-sociais ul li{
-    margin-top: 15px;
-    display:inline-block;
-    float: center;
-}
-.redes-sociais{
-    width: 30%;
-    float: center;
-
-}
-
-.header-2{
-    background-color:rgb(188, 190, 190);
-    width: 980px;
-    height: 100%;
-    margin: 0 auto;
-    padding: 25px;
-
-}
-.menu-urls{
-    height: 80px;
-    border-bottom: 3px solid #201f1f;
-
 }
 
 .menu ul li{
@@ -82,12 +49,12 @@ main{
   
 }
 .menu {
-    width: 70%;
+    width: 700px;
     float: left;
 }
 .busca{
     text-align: center;
-    width: 30%;
+    width: 280px;
     float: left;
 }
 .busca input{
@@ -101,7 +68,44 @@ main{
     border: 1px solid #021827;
 }
 
+.redes-sociais{
+    width: 30%;
+    float: center;
+
+}
+.redes-sociais ul li{
+    margin-top: 15px;
+    display:inline-block;
+    float: center;
+}
+
+
+.titulo{
+    padding: 25px;
+    width: 80%;
+    float: right;
+    margin-top: 0%;
+    
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+.header-2{
+    background-color:rgb(188, 190, 190);
+    width: 980px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 25px;
+
+}
+.menu-urls{
+    height: 80px;
+    border-bottom: 3px solid #201f1f;
+
+}
+
 .col-100{
+    margin-top:center;
     width: 100%;
     float: left;
     position: relative;
